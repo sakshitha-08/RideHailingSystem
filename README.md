@@ -188,4 +188,3 @@ Enter choice: 1
 
 ---
 
-*Assignment submitted for Data Structures course.*
