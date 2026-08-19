@@ -1,7 +1,6 @@
 # Ride-Hailing System for Cabs and Bikes
 
-A command-line ride-hailing application written in C, submitted as a data-structures
-college assignment.  All three databases (Driver, Passenger, Booking) are implemented
+A command-line ride-hailing application written in C.All three databases (Driver, Passenger, Booking) are implemented
 as **AVL trees** for O(log n) search, insertion, and deletion.  Data persists between
 runs via binary file I/O.
 
